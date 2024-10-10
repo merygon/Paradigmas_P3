@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meryg\\OneDrive\\Escritorio\\ICAI IMAT\\3\u00BA\\Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 3\\Practica 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71E9FB6D-8EA7-411B-9C48-3E75B39541C7}|Practica 3.csproj|c:\\users\\meryg\\onedrive\\escritorio\\icai imat\\3\u00BA\\paradigmas y t\u00E9cnicas de programaci\u00F3n\\pr\u00E1cticas\\pr\u00E1ctica 3\\practica 3\\obstaclecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E9FB6D-8EA7-411B-9C48-3E75B39541C7}|Practica 3.csproj|solutionrelative:obstaclecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E9FB6D-8EA7-411B-9C48-3E75B39541C7}|Practica 3.csproj|c:\\users\\meryg\\onedrive\\escritorio\\icai imat\\3\u00BA\\paradigmas y t\u00E9cnicas de programaci\u00F3n\\pr\u00E1cticas\\pr\u00E1ctica 3\\practica 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E9FB6D-8EA7-411B-9C48-3E75B39541C7}|Practica 3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E9FB6D-8EA7-411B-9C48-3E75B39541C7}|Practica 3.csproj|c:\\users\\meryg\\onedrive\\escritorio\\icai imat\\3\u00BA\\paradigmas y t\u00E9cnicas de programaci\u00F3n\\pr\u00E1cticas\\pr\u00E1ctica 3\\practica 3\\obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E9FB6D-8EA7-411B-9C48-3E75B39541C7}|Practica 3.csproj|solutionrelative:obstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E9FB6D-8EA7-411B-9C48-3E75B39541C7}|Practica 3.csproj|c:\\users\\meryg\\onedrive\\escritorio\\icai imat\\3\u00BA\\paradigmas y t\u00E9cnicas de programaci\u00F3n\\pr\u00E1cticas\\pr\u00E1ctica 3\\practica 3\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E9FB6D-8EA7-411B-9C48-3E75B39541C7}|Practica 3.csproj|solutionrelative:taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E9FB6D-8EA7-411B-9C48-3E75B39541C7}|Practica 3.csproj|c:\\users\\meryg\\onedrive\\escritorio\\icai imat\\3\u00BA\\paradigmas y t\u00E9cnicas de programaci\u00F3n\\pr\u00E1cticas\\pr\u00E1ctica 3\\practica 3\\policecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E9FB6D-8EA7-411B-9C48-3E75B39541C7}|Practica 3.csproj|solutionrelative:policecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E9FB6D-8EA7-411B-9C48-3E75B39541C7}|Practica 3.csproj|c:\\users\\meryg\\onedrive\\escritorio\\icai imat\\3\u00BA\\paradigmas y t\u00E9cnicas de programaci\u00F3n\\pr\u00E1cticas\\pr\u00E1ctica 3\\practica 3\\debilitator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E9FB6D-8EA7-411B-9C48-3E75B39541C7}|Practica 3.csproj|solutionrelative:debilitator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E9FB6D-8EA7-411B-9C48-3E75B39541C7}|Practica 3.csproj|c:\\users\\meryg\\onedrive\\escritorio\\icai imat\\3\u00BA\\paradigmas y t\u00E9cnicas de programaci\u00F3n\\pr\u00E1cticas\\pr\u00E1ctica 3\\practica 3\\fence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E9FB6D-8EA7-411B-9C48-3E75B39541C7}|Practica 3.csproj|solutionrelative:fence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObstacleCreator.cs",
+              "DocumentMoniker": "C:\\Users\\meryg\\OneDrive\\Escritorio\\ICAI IMAT\\3\u00BA\\Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 3\\Practica 3\\ObstacleCreator.cs",
+              "RelativeDocumentMoniker": "ObstacleCreator.cs",
+              "ToolTip": "C:\\Users\\meryg\\OneDrive\\Escritorio\\ICAI IMAT\\3\u00BA\\Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 3\\Practica 3\\ObstacleCreator.cs",
+              "RelativeToolTip": "ObstacleCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:51:54.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fence.cs",
+              "DocumentMoniker": "C:\\Users\\meryg\\OneDrive\\Escritorio\\ICAI IMAT\\3\u00BA\\Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 3\\Practica 3\\Fence.cs",
+              "RelativeDocumentMoniker": "Fence.cs",
+              "ToolTip": "C:\\Users\\meryg\\OneDrive\\Escritorio\\ICAI IMAT\\3\u00BA\\Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 3\\Practica 3\\Fence.cs",
+              "RelativeToolTip": "Fence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:41:56.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Debilitator.cs",
+              "DocumentMoniker": "C:\\Users\\meryg\\OneDrive\\Escritorio\\ICAI IMAT\\3\u00BA\\Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 3\\Practica 3\\Debilitator.cs",
+              "RelativeDocumentMoniker": "Debilitator.cs",
+              "ToolTip": "C:\\Users\\meryg\\OneDrive\\Escritorio\\ICAI IMAT\\3\u00BA\\Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 3\\Practica 3\\Debilitator.cs",
+              "RelativeToolTip": "Debilitator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:40:30.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PoliceCar.cs",
+              "DocumentMoniker": "C:\\Users\\meryg\\OneDrive\\Escritorio\\ICAI IMAT\\3\u00BA\\Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 3\\Practica 3\\PoliceCar.cs",
+              "RelativeDocumentMoniker": "PoliceCar.cs",
+              "ToolTip": "C:\\Users\\meryg\\OneDrive\\Escritorio\\ICAI IMAT\\3\u00BA\\Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 3\\Practica 3\\PoliceCar.cs",
+              "RelativeToolTip": "PoliceCar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:30:31.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Obstacle.cs",
+              "DocumentMoniker": "C:\\Users\\meryg\\OneDrive\\Escritorio\\ICAI IMAT\\3\u00BA\\Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 3\\Practica 3\\Obstacle.cs",
+              "RelativeDocumentMoniker": "Obstacle.cs",
+              "ToolTip": "C:\\Users\\meryg\\OneDrive\\Escritorio\\ICAI IMAT\\3\u00BA\\Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 3\\Practica 3\\Obstacle.cs",
+              "RelativeToolTip": "Obstacle.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:30:14.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Taxi.cs",
+              "DocumentMoniker": "C:\\Users\\meryg\\OneDrive\\Escritorio\\ICAI IMAT\\3\u00BA\\Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 3\\Practica 3\\Taxi.cs",
+              "RelativeDocumentMoniker": "Taxi.cs",
+              "ToolTip": "C:\\Users\\meryg\\OneDrive\\Escritorio\\ICAI IMAT\\3\u00BA\\Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 3\\Practica 3\\Taxi.cs",
+              "RelativeToolTip": "Taxi.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:30:21.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\meryg\\OneDrive\\Escritorio\\ICAI IMAT\\3\u00BA\\Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 3\\Practica 3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\meryg\\OneDrive\\Escritorio\\ICAI IMAT\\3\u00BA\\Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 3\\Practica 3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:29:47.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
