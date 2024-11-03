@@ -1,0 +1,15 @@
+C:\Users\meryg\OneDrive\Escritorio\ICAI IMAT\3º\Paradigmas y Técnicas de Programación\Prácticas\Práctica 3\Practica 3\bin\Debug\net8.0\Practica 3.exe
+C:\Users\meryg\OneDrive\Escritorio\ICAI IMAT\3º\Paradigmas y Técnicas de Programación\Prácticas\Práctica 3\Practica 3\bin\Debug\net8.0\Practica 3.deps.json
+C:\Users\meryg\OneDrive\Escritorio\ICAI IMAT\3º\Paradigmas y Técnicas de Programación\Prácticas\Práctica 3\Practica 3\bin\Debug\net8.0\Practica 3.runtimeconfig.json
+C:\Users\meryg\OneDrive\Escritorio\ICAI IMAT\3º\Paradigmas y Técnicas de Programación\Prácticas\Práctica 3\Practica 3\bin\Debug\net8.0\Practica 3.dll
+C:\Users\meryg\OneDrive\Escritorio\ICAI IMAT\3º\Paradigmas y Técnicas de Programación\Prácticas\Práctica 3\Practica 3\bin\Debug\net8.0\Practica 3.pdb
+C:\Users\meryg\OneDrive\Escritorio\ICAI IMAT\3º\Paradigmas y Técnicas de Programación\Prácticas\Práctica 3\Practica 3\obj\Debug\net8.0\Practica 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meryg\OneDrive\Escritorio\ICAI IMAT\3º\Paradigmas y Técnicas de Programación\Prácticas\Práctica 3\Practica 3\obj\Debug\net8.0\Practica 3.AssemblyInfoInputs.cache
+C:\Users\meryg\OneDrive\Escritorio\ICAI IMAT\3º\Paradigmas y Técnicas de Programación\Prácticas\Práctica 3\Practica 3\obj\Debug\net8.0\Practica 3.AssemblyInfo.cs
+C:\Users\meryg\OneDrive\Escritorio\ICAI IMAT\3º\Paradigmas y Técnicas de Programación\Prácticas\Práctica 3\Practica 3\obj\Debug\net8.0\Practica 3.csproj.CoreCompileInputs.cache
+C:\Users\meryg\OneDrive\Escritorio\ICAI IMAT\3º\Paradigmas y Técnicas de Programación\Prácticas\Práctica 3\Practica 3\obj\Debug\net8.0\Practica 3.sourcelink.json
+C:\Users\meryg\OneDrive\Escritorio\ICAI IMAT\3º\Paradigmas y Técnicas de Programación\Prácticas\Práctica 3\Practica 3\obj\Debug\net8.0\Practica 3.dll
+C:\Users\meryg\OneDrive\Escritorio\ICAI IMAT\3º\Paradigmas y Técnicas de Programación\Prácticas\Práctica 3\Practica 3\obj\Debug\net8.0\refint\Practica 3.dll
+C:\Users\meryg\OneDrive\Escritorio\ICAI IMAT\3º\Paradigmas y Técnicas de Programación\Prácticas\Práctica 3\Practica 3\obj\Debug\net8.0\Practica 3.pdb
+C:\Users\meryg\OneDrive\Escritorio\ICAI IMAT\3º\Paradigmas y Técnicas de Programación\Prácticas\Práctica 3\Practica 3\obj\Debug\net8.0\Practica 3.genruntimeconfig.cache
+C:\Users\meryg\OneDrive\Escritorio\ICAI IMAT\3º\Paradigmas y Técnicas de Programación\Prácticas\Práctica 3\Practica 3\obj\Debug\net8.0\ref\Practica 3.dll

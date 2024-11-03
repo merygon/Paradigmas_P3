@@ -8,7 +8,7 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Practica_3
 {
-    internal class Obstacle
+    abstract class Obstacle
     {
         /*Los obstáculos comparten los siguientes atributos:
         ● Puede o no perseguir al Taxi.
@@ -29,6 +29,10 @@ namespace Practica_3
             this.timeEffect = timeEffect;
         }
 
+        public int GetTimeEffect() 
+        {
+            return timeEffect; 
+        }
         public bool GetChasing() 
         {
             return chasing; 

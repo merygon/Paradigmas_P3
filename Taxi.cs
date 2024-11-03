@@ -10,11 +10,24 @@ namespace Practica_3
     {
         private int life;
         private float speed;
+        private static Taxi instance = null;
 
-        public Taxi(int life, float speed) 
+        public Taxi(int life, float speed)
         {
             this.life = 100;
             this.speed = 1f;
+        }
+
+        public static Taxi Instance
+        {
+            get
+            {
+                if (instance == null)
+                {
+                    instance = new Taxi(100, 1f);
+                }
+                return instance;
+            }
         }
 
         public int GetLife() 
@@ -35,13 +48,24 @@ namespace Practica_3
         public void SetSpeed(float speed)
         {
             this.speed = speed;
+            Console.WriteLine($"La velocidad es: {speed}");
         }
 
-        public void TaxiValues()
+        public void TaxiValues(double time)
         {
             float speed = GetSpeed();
             int life = GetLife();
-            Console.WriteLine($"Taxi values: speed: {speed}, life points: {life}");
+            Console.WriteLine($"Taxi values at time {time}: speed: {speed}, life points: {life}");
+        }
+
+        private double elapsedTime = 0;
+        public void EffectTime(double time, Obstacle typeObstacle)
+        {
+            elapsedTime += time;
+            if (elapsedTime >= typeObstacle.GetTimeEffect())
+            {
+                SetSpeed(1);
+            }
         }
     }
 }
